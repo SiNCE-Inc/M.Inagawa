@@ -42,4 +42,4 @@ for link in links:
 
 #曲名と歌詞が入っているlist_dfをcsvファイルに
 df =list_df
-df.to_csv('Mr.Children.csv', index=False)
+df.to_csv('ファイル名.csv', index=False)
